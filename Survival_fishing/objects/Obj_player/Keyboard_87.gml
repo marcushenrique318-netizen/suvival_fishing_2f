@@ -1,0 +1,1 @@
+vspeed -= 0.4// para que o peixe suba, o valor trm que ser negativo
