@@ -8,8 +8,8 @@
   "name":"Obj_coletavel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Particle Systems",
-    "path":"folders/Notes/Objects/Particle Systems.yy",
+    "name":"Objects",
+    "path":"folders/Notes/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

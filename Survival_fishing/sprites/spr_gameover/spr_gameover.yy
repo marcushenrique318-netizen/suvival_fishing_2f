@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_gameover",
   "bboxMode":0,
-  "bbox_bottom":104,
-  "bbox_left":15,
-  "bbox_right":151,
+  "bbox_bottom":89,
+  "bbox_left":14,
+  "bbox_right":144,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":112,
+  "height":106,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"f0c63cfb-fe8c-46fa-b10b-42b4550e46a8","blendMode":0,"displayName":"default","isLocked":false,"name":"f0c63cfb-fe8c-46fa-b10b-42b4550e46a8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":168,
+  "width":160,
 }
