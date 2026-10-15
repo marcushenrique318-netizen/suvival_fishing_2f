@@ -1,12 +1,12 @@
 {
   "$GMSprite":"v2",
   "%Name":"Spr_Bluezao",
-  "bboxMode":0,
-  "bbox_bottom":39,
-  "bbox_left":0,
-  "bbox_right":67,
-  "bbox_top":0,
-  "collisionKind":1,
+  "bboxMode":2,
+  "bbox_bottom":31,
+  "bbox_left":41,
+  "bbox_right":68,
+  "bbox_top":10,
+  "collisionKind":3,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
@@ -70,7 +70,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"3083c584-0d24-47ad-b245-feb04fd08ac7","path":"sprites/Spr_Bluezao/Spr_Bluezao.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0a11d40a-5c18-4a02-a5bb-ef81d8525b39","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3083c584-0d24-47ad-b245-feb04fd08ac7","path":"sprites/Spr_Bluezao/Spr_Bluezao.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0a11d40a-5c18-4a02-a5bb-ef81d8525b39","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

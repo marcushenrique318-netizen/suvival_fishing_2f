@@ -8,3 +8,15 @@ if(
 	//show_debug_message("Peixinho destruindo")
 
 }
+
+
+// Verificando o comportamento do peixe Marrom(peixe 3)
+
+if(peixe_sorteado == 3){
+	// verificando se está encima ou em baixo
+	if(y >= room_height - 50 || y <= 50){
+		vspeed *= -1
+		
+	}
+	
+}

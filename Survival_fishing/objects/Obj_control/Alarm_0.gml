@@ -10,6 +10,7 @@ global.lado_x = choose(-50, room_width + 50)
 
 
 instance_create_layer(global.lado_x, posicao_vertical, "Instances", Obj_peixes)
+instance_create_layer(global.lado_x, posicao_vertical, "Instances", Obj_coletavel)
 
 // Verificando o vtempo para aumentar a dificuldade
 if(global.contador <= 30){

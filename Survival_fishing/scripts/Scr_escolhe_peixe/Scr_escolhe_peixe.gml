@@ -14,6 +14,8 @@ function Scr_escolhe_peixe(peixe_sorteado){
 		     sprite_index = Spr_bayaku
 			 // esse peixe apresenta ser mais lento
 			 hspeed = random_range(0.5, 1.2)
+			 // aplicando uma velocidade vertical
+			 vspeed = choose(-0.5, 0.5)// ou ele sobe ou ele desce
 		break
 		case 4:
 		     sprite_index = Spr_PEPE
