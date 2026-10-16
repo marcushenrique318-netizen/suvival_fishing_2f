@@ -1,3 +1,3 @@
-//0 -  Jogar, 1 - Controles, 2 - Sair
+//0 -  Reiniciar, 1 - Controles, 2 - Sair
 
 opcao = 0
