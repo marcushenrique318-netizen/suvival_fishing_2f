@@ -18,7 +18,7 @@ var altura_botao = 40
 var nomes = ["REINICIAR", "MENU", "SAIR"]
 
 // loop para exibir os 3 botões
-for(contador = 0; contador <= 2; contador++){
+for (contador = 0; contador <= 2; contador++){
 	// 1º definindo o espaçamento de cada botão
 	var altura_y = y_inicial + (contador * distancia)
 	
